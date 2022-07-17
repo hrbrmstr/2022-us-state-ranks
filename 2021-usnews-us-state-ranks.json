@@ -1,0 +1,50 @@
+{"rank":1,"state":" Washington","health_care":8,"education":4,"economy":4,"infrastructure":3,"opportunity":25,"fiscal_stability":6,"crime_corrections":19,"natural_environment":15}
+{"rank":2,"state":" Minnesota","health_care":16,"education":17,"economy":15,"infrastructure":9,"opportunity":2,"fiscal_stability":21,"crime_corrections":15,"natural_environment":10}
+{"rank":3,"state":" Utah","health_care":11,"education":10,"economy":1,"infrastructure":5,"opportunity":30,"fiscal_stability":5,"crime_corrections":8,"natural_environment":47}
+{"rank":4,"state":" New Hampshire","health_care":13,"education":13,"economy":11,"infrastructure":34,"opportunity":3,"fiscal_stability":33,"crime_corrections":1,"natural_environment":2}
+{"rank":5,"state":" Idaho","health_care":24,"education":29,"economy":3,"infrastructure":10,"opportunity":24,"fiscal_stability":4,"crime_corrections":10,"natural_environment":12}
+{"rank":6,"state":" Nebraska","health_care":28,"education":9,"economy":20,"infrastructure":6,"opportunity":10,"fiscal_stability":17,"crime_corrections":31,"natural_environment":6}
+{"rank":7,"state":" Virginia","health_care":12,"education":12,"economy":13,"infrastructure":39,"opportunity":8,"fiscal_stability":18,"crime_corrections":9,"natural_environment":19}
+{"rank":8,"state":" Wisconsin","health_care":15,"education":8,"economy":26,"infrastructure":24,"opportunity":9,"fiscal_stability":9,"crime_corrections":25,"natural_environment":17}
+{"rank":9,"state":" Massachusetts","health_care":2,"education":2,"economy":5,"infrastructure":42,"opportunity":36,"fiscal_stability":43,"crime_corrections":4,"natural_environment":4}
+{"rank":10,"state":" Florida","health_care":25,"education":3,"economy":8,"infrastructure":20,"opportunity":33,"fiscal_stability":8,"crime_corrections":26,"natural_environment":18}
+{"rank":11,"state":" Vermont","health_care":18,"education":15,"economy":25,"infrastructure":12,"opportunity":17,"fiscal_stability":37,"crime_corrections":3,"natural_environment":9}
+{"rank":12,"state":" Iowa","health_care":20,"education":18,"economy":27,"infrastructure":19,"opportunity":1,"fiscal_stability":23,"crime_corrections":14,"natural_environment":20}
+{"rank":13,"state":" North Carolina","health_care":30,"education":7,"economy":17,"infrastructure":22,"opportunity":28,"fiscal_stability":7,"crime_corrections":20,"natural_environment":27}
+{"rank":14,"state":" North Dakota","health_care":27,"education":25,"economy":32,"infrastructure":4,"opportunity":23,"fiscal_stability":16,"crime_corrections":18,"natural_environment":8}
+{"rank":15,"state":" South Dakota","health_care":29,"education":19,"economy":30,"infrastructure":14,"opportunity":27,"fiscal_stability":2,"crime_corrections":35,"natural_environment":3}
+{"rank":16,"state":" Colorado","health_care":10,"education":5,"economy":2,"infrastructure":15,"opportunity":41,"fiscal_stability":45,"crime_corrections":41,"natural_environment":23}
+{"rank":17,"state":" Maryland","health_care":6,"education":14,"economy":35,"infrastructure":38,"opportunity":15,"fiscal_stability":29,"crime_corrections":22,"natural_environment":11}
+{"rank":18,"state":" Georgia","health_care":43,"education":26,"economy":12,"infrastructure":11,"opportunity":13,"fiscal_stability":11,"crime_corrections":29,"natural_environment":25}
+{"rank":19,"state":" New Jersey","health_care":4,"education":1,"economy":33,"infrastructure":41,"opportunity":19,"fiscal_stability":49,"crime_corrections":5,"natural_environment":33}
+{"rank":20,"state":" Connecticut","health_care":3,"education":6,"economy":22,"infrastructure":46,"opportunity":45,"fiscal_stability":30,"crime_corrections":6,"natural_environment":28}
+{"rank":21,"state":" New York","health_care":7,"education":16,"economy":43,"infrastructure":30,"opportunity":46,"fiscal_stability":20,"crime_corrections":11,"natural_environment":5}
+{"rank":22,"state":" Oregon","health_care":17,"education":35,"economy":14,"infrastructure":2,"opportunity":31,"fiscal_stability":13,"crime_corrections":40,"natural_environment":42}
+{"rank":23,"state":" Delaware","health_care":14,"education":24,"economy":24,"infrastructure":25,"opportunity":14,"fiscal_stability":12,"crime_corrections":39,"natural_environment":45}
+{"rank":24,"state":" California","health_care":5,"education":20,"economy":10,"infrastructure":31,"opportunity":50,"fiscal_stability":36,"crime_corrections":28,"natural_environment":35}
+{"rank":25,"state":" Hawaii","health_care":1,"education":27,"economy":46,"infrastructure":33,"opportunity":34,"fiscal_stability":46,"crime_corrections":12,"natural_environment":1}
+{"rank":26,"state":" Kansas","health_care":41,"education":23,"economy":31,"infrastructure":7,"opportunity":16,"fiscal_stability":39,"crime_corrections":27,"natural_environment":16}
+{"rank":27,"state":" Maine","health_care":26,"education":28,"economy":36,"infrastructure":37,"opportunity":29,"fiscal_stability":26,"crime_corrections":2,"natural_environment":14}
+{"rank":28,"state":" Missouri","health_care":42,"education":30,"economy":23,"infrastructure":27,"opportunity":4,"fiscal_stability":15,"crime_corrections":45,"natural_environment":21}
+{"rank":29,"state":" Tennessee","health_care":40,"education":33,"economy":16,"infrastructure":17,"opportunity":21,"fiscal_stability":3,"crime_corrections":42,"natural_environment":39}
+{"rank":30,"state":" Illinois","health_care":23,"education":11,"economy":39,"infrastructure":26,"opportunity":12,"fiscal_stability":50,"crime_corrections":16,"natural_environment":43}
+{"rank":31,"state":" Texas","health_care":31,"education":34,"economy":9,"infrastructure":16,"opportunity":39,"fiscal_stability":10,"crime_corrections":37,"natural_environment":40}
+{"rank":32,"state":" Indiana","health_care":32,"education":22,"economy":21,"infrastructure":32,"opportunity":7,"fiscal_stability":32,"crime_corrections":24,"natural_environment":48}
+{"rank":33,"state":" Montana","health_care":36,"education":32,"economy":19,"infrastructure":13,"opportunity":35,"fiscal_stability":19,"crime_corrections":34,"natural_environment":24}
+{"rank":34,"state":" Rhode Island","health_care":9,"education":39,"economy":28,"infrastructure":49,"opportunity":32,"fiscal_stability":44,"crime_corrections":7,"natural_environment":7}
+{"rank":35,"state":" Wyoming","health_care":38,"education":21,"economy":45,"infrastructure":8,"opportunity":42,"fiscal_stability":34,"crime_corrections":21,"natural_environment":13}
+{"rank":36,"state":" Ohio","health_care":37,"education":31,"economy":34,"infrastructure":29,"opportunity":6,"fiscal_stability":24,"crime_corrections":32,"natural_environment":44}
+{"rank":37,"state":" Nevada","health_care":39,"education":40,"economy":6,"infrastructure":1,"opportunity":47,"fiscal_stability":27,"crime_corrections":36,"natural_environment":50}
+{"rank":38,"state":" Michigan","health_care":35,"education":38,"economy":29,"infrastructure":35,"opportunity":5,"fiscal_stability":38,"crime_corrections":30,"natural_environment":32}
+{"rank":39,"state":" Arizona","health_care":21,"education":46,"economy":7,"infrastructure":23,"opportunity":40,"fiscal_stability":40,"crime_corrections":38,"natural_environment":41}
+{"rank":40,"state":" Pennsylvania","health_care":19,"education":37,"economy":42,"infrastructure":44,"opportunity":11,"fiscal_stability":47,"crime_corrections":17,"natural_environment":38}
+{"rank":41,"state":" Kentucky","health_care":44,"education":36,"economy":40,"infrastructure":18,"opportunity":20,"fiscal_stability":48,"crime_corrections":13,"natural_environment":29}
+{"rank":42,"state":" South Carolina","health_care":34,"education":44,"economy":18,"infrastructure":36,"opportunity":38,"fiscal_stability":31,"crime_corrections":46,"natural_environment":26}
+{"rank":43,"state":" Oklahoma","health_care":48,"education":42,"economy":37,"infrastructure":21,"opportunity":26,"fiscal_stability":25,"crime_corrections":44,"natural_environment":34}
+{"rank":44,"state":" Arkansas","health_care":49,"education":41,"economy":41,"infrastructure":43,"opportunity":22,"fiscal_stability":14,"crime_corrections":48,"natural_environment":30}
+{"rank":45,"state":" Alaska","health_care":22,"education":49,"economy":50,"infrastructure":40,"opportunity":43,"fiscal_stability":1,"crime_corrections":49,"natural_environment":46}
+{"rank":46,"state":" Alabama","health_care":45,"education":47,"economy":38,"infrastructure":28,"opportunity":37,"fiscal_stability":22,"crime_corrections":43,"natural_environment":37}
+{"rank":47,"state":" West Virginia","health_care":47,"education":45,"economy":48,"infrastructure":50,"opportunity":18,"fiscal_stability":28,"crime_corrections":23,"natural_environment":36}
+{"rank":48,"state":" New Mexico","health_care":33,"education":50,"economy":44,"infrastructure":45,"opportunity":49,"fiscal_stability":35,"crime_corrections":47,"natural_environment":31}
+{"rank":49,"state":" Mississippi","health_care":50,"education":43,"economy":49,"infrastructure":48,"opportunity":44,"fiscal_stability":41,"crime_corrections":33,"natural_environment":22}
+{"rank":50,"state":" Louisiana","health_care":46,"education":48,"economy":47,"infrastructure":47,"opportunity":48,"fiscal_stability":42,"crime_corrections":50,"natural_environment":49}
